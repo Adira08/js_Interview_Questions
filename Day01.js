@@ -2,7 +2,7 @@
 // Difference between “ == “ and “ === “ operators.
 
 // double equals or != checks only the values and not the data type
-// double equals or !== checks both the values and not the data type
+// double equals or !== checks both the values and data type
 
 // console.log(2 == 2); //true
 // console.log(2 === 2); //true
